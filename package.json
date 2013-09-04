@@ -1,0 +1,13 @@
+{
+  "name": "nodegit-sample",
+  "version": "0.0.1",
+  "description": "Sample that illustrates an issue",
+  "dependencies": {
+    "nodegit": "git://github.com/nodegit/nodegit.git#wip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philschatz/nodegit-sample.git"
+  },
+  "author": "Philip Schatz"
+}
